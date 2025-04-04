@@ -1,1 +1,1 @@
-atividae prática do professor Marco, da matéria de JAVA WEB
+atividade prática do professor Marco, da matéria de JAVA WEB.
